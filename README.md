@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Live on Vercel](https://img.shields.io/badge/BourneIt-Open%20Live%20App-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://bourneit-health-triage-engine.vercel.app/)
+[![Live on Vercel](https://img.shields.io/badge/BourneIt-Open%20Live%20App-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://bourne-it.vercel.app/chat)
 
 </div>
 
