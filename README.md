@@ -4,7 +4,7 @@
 
 | Service | Link |
 |---|---|
-| 🌐 Frontend | [bourneit-health-triage-engine.vercel.app]([https://bourneit-health-triage-engine.vercel.app/](https://bourne-it.vercel.app/chat)) |
+| 🌐 Frontend | [bourneit-health-triage-engine.vercel.app](https://bourne-it.vercel.app/chat) |
 | ⚙️ Backend API | [firstclinic-ai-triage-engine — HF Spaces](https://huggingface.co/spaces/Jaoooooo9/firstclinic-ai-triage-engine) |
 
 <div align="center">
